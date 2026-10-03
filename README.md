@@ -78,8 +78,25 @@ reports/
 screenshots/
 ```
 
-## Screenshots
-Place demonstration screenshots in `screenshots/` using professional names such as `01-assessment-home.png`, `02-risk-result.png`, `03-dashboard.png`, and `04-report.png`.
+## 📸 Screenshots
+
+The project includes screenshots demonstrating the main features:
+
+### Privacy Risk Assessment Report
+
+![Privacy Report](screenshots/privacy-report.png)
+
+### Privacy Findings & Checklist
+
+![Privacy Findings](screenshots/privacy-findings.png)
+
+### Improvement Simulator
+
+![Improvement Simulator](screenshots/improvement-simulator.png)
+
+### Privacy Analytics Dashboard
+
+![Privacy Dashboard](screenshots/privacy-dashboard.png)
 
 ## Future Improvements
 Platform-specific privacy checklists, privacy maturity scoring, awareness quizzes, enterprise training, GRC reporting, better score calibration, localization, accessibility, comparison over time, and optional local-only assessment mode.
